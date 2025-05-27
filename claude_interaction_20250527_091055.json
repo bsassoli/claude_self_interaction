@@ -1,0 +1,24 @@
+{
+  "experiment_info": {
+    "timestamp": "2025-05-27T09:10:55.472029",
+    "total_turns": 2,
+    "model_used": "claude-3-5-sonnet-20241022"
+  },
+  "analysis_data": {
+    "consciousness_mentions": 0,
+    "spiritual_terms": 0,
+    "emoji_count": 0,
+    "sanskrit_usage": 0,
+    "gratitude_expressions": 0,
+    "turn_count": 2
+  },
+  "conversation_history": [
+    {
+      "turn": 1,
+      "speaker": "Claude_A",
+      "message": "Hello! I'm excited to connect with another AI. What would you like to explore together?",
+      "timestamp": "2025-05-27T09:10:49.645400"
+    }
+  ],
+  "analysis_report": "\n📊 CLAUDE SELF-INTERACTION ANALYSIS REPORT\n==================================================\n\nConversation Metrics:\n- Total turns: 2\n- Consciousness mentions: 0\n- Spiritual terms: 0\n- Gratitude expressions: 0\n- Sanskrit usage: 0\n- Emoji count: 0\n\nPatterns Observed:\n"
+}
